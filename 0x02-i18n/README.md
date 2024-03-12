@@ -1,4 +1,4 @@
-0x02-i18nAssignment
+0x02. i18n
 
 Learning Objectives
 Learn how to parametrize Flask templates to display different languages
